@@ -8,6 +8,7 @@ yolovenv/
 dist/
 build/
 
+# Python bytecode and cache files
 # Python
 __pycache__/
 *.py[cod]
